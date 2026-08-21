@@ -170,11 +170,11 @@ The AI Academy Nigeria initiative is building Nigeria's AI ecosystem through str
 │                     CLIENT LAYER                            │
 │                                                             │
 │  ┌──────────────────┐    ┌──────────────────────────────┐   │
-│  │  Mobile App      │    │  Security Dashboard (Web)    │   │
-│  │  (Flutter)       │    │  (React)                     │   │
+│  │  Mobile App      │    │   Security Dashboard (Web)   │   │
+│  │  (Flutter)       │    │   (React)                    │   │
 │  └──────────────────┘    └──────────────────────────────┘   │
-│                          │                                  │
-│                    HTTPS REST API                           │
+│                           │                                 │
+│                     HTTPS REST API                          │
 └─────────────────────────────────────────────────────────────┘
 ```
 
